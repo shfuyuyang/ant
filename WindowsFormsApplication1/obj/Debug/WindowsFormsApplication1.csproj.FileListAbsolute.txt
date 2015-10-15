@@ -20,3 +20,13 @@ C:\Users\Holmes\Desktop\练习用程序 - 副本\迷宫\WindowsFormsApplication1
 C:\Users\Holmes\Desktop\练习用程序 - 副本\迷宫\WindowsFormsApplication1_返回下一个方向\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
 C:\Users\Holmes\Desktop\练习用程序 - 副本\迷宫\WindowsFormsApplication1_返回下一个方向\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 C:\Users\Holmes\Desktop\练习用程序 - 副本\迷宫\WindowsFormsApplication1_返回下一个方向\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Holmes\Desktop\workpasce\ant\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Holmes\Desktop\workpasce\ant\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Holmes\Desktop\workpasce\ant\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Holmes\Desktop\workpasce\ant\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Holmes\Desktop\workpasce\ant\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.anti.resources
+C:\Users\Holmes\Desktop\workpasce\ant\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Holmes\Desktop\workpasce\ant\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Holmes\Desktop\workpasce\ant\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.gravity.resources
+C:\Users\Holmes\Desktop\workpasce\ant\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Holmes\Desktop\workpasce\ant\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
